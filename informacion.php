@@ -1,10 +1,8 @@
 <?php
-$Identificacion = $_POST['Identificacion'];
-$NomApellidos = $_POST['NomApellidos'];
-$Cargo= $_POST['Cargo'];
-$Salario= $_POST['Salario'];
-echo "LA IDENTIFICACION DEL EMPLEADO ES: ".$Identificacion;
-echo "LOS NOMBRES DEL EMPLEADO SON: ".$NomApellidos;
-echo "EL CARGO DEL EMPLEADO ES: ".$Cargo;
-echo "EL SALARIO DEL EMPLEADO ES: ".$Salario;
+$Camisa = $_POST['Camisa'];
+$Pantalon = $_POST['Pantalon'];
+$Precio1= $_POST['Precio1'];
+$Precio2= $_POST['Precio2'];
+$Suma= $_POST['Precio1+Precio2'];
+echo "El total a pagar es: ".$Suma;
 ?>
