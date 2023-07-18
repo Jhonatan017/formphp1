@@ -15,4 +15,4 @@ echo "el precio del producto es:  ".$Precio2;
 echo "el nombre de producto es: ".$Product3;
 echo "el precio del producto es:  ".$Precio3;
 echo "el total a pagar es:  ".$total;
-<?
+?>
