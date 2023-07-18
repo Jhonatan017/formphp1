@@ -1,3 +1,4 @@
+<?php
 $Producto1=$_POST ['Product1'];
 $Producto2=$_POST ['Product2'];
 $Precio=$_POST ['Precio1'];
