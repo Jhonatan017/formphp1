@@ -1,1 +1,16 @@
-
+$Producto1=$_POST ['Product1'];
+$Producto2=$_POST ['Product2'];
+$Producto3=$_POST ['Product3'];
+$Precio=$_POST ['Precio1'];
+$Precio=$_POST ['Precio2'];
+$Precio=$_POST ['Precio3'];
+$suma=Precio1+Precio2+precio3
+$descuento=0.6/100*suma
+total=suma-descuento
+echo "el nombre de producto es: ".$Product1;
+echo "el precio del producto es: ".$Precio1;
+echo "el nombre de producto es: ".$Product2;
+echo "el precio del producto es:  ".$Precio2;
+echo "el nombre de producto es: ".$Product3;
+echo "el precio del producto es:  ".$Precio3;
+echo "el total a pagar es:  ".$total;
