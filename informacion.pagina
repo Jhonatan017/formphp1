@@ -1,3 +1,4 @@
+<?php
 $Producto1=$_POST ['Product1'];
 $Producto2=$_POST ['Product2'];
 $Producto3=$_POST ['Product3'];
@@ -14,3 +15,4 @@ echo "el precio del producto es:  ".$Precio2;
 echo "el nombre de producto es: ".$Product3;
 echo "el precio del producto es:  ".$Precio3;
 echo "el total a pagar es:  ".$total;
+<?
